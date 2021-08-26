@@ -1,0 +1,92 @@
+[
+  {
+    "doc_ids": [
+      626,
+      1812,
+      3297,
+      111,
+      74,
+      4213,
+      3296,
+      4507,
+      2760,
+      2039
+    ],
+    "max_size": 10,
+    "plot_query": "jim and his mother are in a birthday celebration. he finds a mysterious map but a sailor with one leg looks for it too. The pirates want to kill Jim. Silver protects him. Jim frees Silver. As he sails away, Silver promises to hunt treasure with Jim again some day.",
+    "title_query": "Treasure Island",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      5180,
+      3152
+    ],
+    "max_size": 2,
+    "plot_query": "Neo, humanity's only hope of stopping the war and saving Zion, attempts to broker peace between the machines and humans.",
+    "title_query": "",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      4643,
+      4471,
+      5122,
+      4836,
+      3661,
+      3517,
+      4105
+    ],
+    "max_size": 7,
+    "plot_query": "Captain Jean Luc Picard awaken from a nightmare.\nThe Enterprise arrives in time to assist the crew of the USS Defiant and its captain.\nThe Enterprise arrives hundreds of years in its past on April 4, 2063, the day before humanity's first encounter with alien life.",
+    "title_query": "Star Trek",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      4670,
+      4971,
+      5309,
+      1136,
+      4920,
+      5475,
+      2871,
+      4160,
+      4357,
+      794,
+      5749,
+      4754
+    ],
+    "max_size": 12,
+    "plot_query": "In a murder trial, 12 men act as the jury to decide whether or not the boy is guilty for murdering his father. The lawyers won't help the boy as he has a weapon.",
+    "title_query": "",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      5903
+    ],
+    "max_size": 1,
+    "plot_query": "Girl whith thiroid Caner meet a boy and fall in love with himm. finaly the girl dyes.",
+    "title_query": "",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      5625
+    ],
+    "max_size": 1,
+    "plot_query": "who preform coroprate espanage useing an exprimantal millitary tecnology to infilterate the subconscios of their tagets and extract valueable information,",
+    "title_query": "",
+    "title_weight": 4
+  },
+  {
+    "doc_ids": [
+      5153
+    ],
+    "max_size": 1,
+    "plot_query": "",
+    "title_query": "Fourty Four Mintes: The North Holliwood Shotout",
+    "title_weight": 4
+  }
+]
