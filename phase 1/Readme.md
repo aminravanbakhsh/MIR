@@ -1,8 +1,11 @@
-## Project description:
+## Search Engine
 
-### Search Engine
+### Brief summary:
 
-Data set: movies.csv (collected by IMDB)
+Implementing a Search Engine for IMDB movies' synopsis. Applying preprocessing text method, positional index structure, compression and inquiry correction.
+
+Data set:
+- movies.csv (collected by IMDB)
 
 Libraries:
   - NLTK
