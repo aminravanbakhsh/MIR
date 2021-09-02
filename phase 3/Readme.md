@@ -1,6 +1,10 @@
 ## Web Crawler
 ### Microsoft Academic Crawler
 
+### Brief summary:
+
+Implementing a Crawler for Microsoft Academic page to fetch information from related pages and their authors.
+
 Datasets:
 - [Microsoft Academic](https://academic.microsoft.com/)
 
